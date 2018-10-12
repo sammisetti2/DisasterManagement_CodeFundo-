@@ -1,7 +1,7 @@
 # DisasterManagement_CodeFundo-
 
 Cross Platform Application 
-Developed with -> React,React-Native,Javascript,CSS,HTML
+Developed with -> React, React-Native, Javascript, CSS, HTML
 
 It will ask for the following informations:
 - location of user
