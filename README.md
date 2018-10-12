@@ -3,7 +3,7 @@
 Cross Platform Application 
 Developed with -> React, React-Native, Javascript, CSS, HTML
 
-It will ask for the following informations:
+It will ask for permissions for the following info from user :
 - location of user
 - acess to user's SMSs
 - phone number
